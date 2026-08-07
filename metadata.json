@@ -1,0 +1,6 @@
+{
+  "name": "FasBrain: Tes IQ & Psikotes",
+  "description": "Aplikasi Tes IQ, Psikotes, Deret Angka & Huruf, Logika Spasial, dan Cek Buta Warna dengan sertifikat digital dan statistik.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
